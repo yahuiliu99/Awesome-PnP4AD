@@ -68,11 +68,14 @@ This is a collection of research papers about **Integrated Perception and Predic
 - [CVPR 2020] MotionNet: Joint Perception and Motion Prediction for Autonomous Driving based on BEV Maps [[paper](https://arxiv.org/pdf/2003.06754.pdf)] [[Github](https://github.com/pxiangwu/MotionNet)]
 - [CVPR 2022] BE-STI: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction with Bidirectional Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_BE-STI_Spatial-Temporal_Integrated_Network_for_Class-Agnostic_Motion_Prediction_With_Bidirectional_CVPR_2022_paper.pdf)] 
 - [CVPR 2023] Weakly Supervised Class-Agnostic Motion Prediction for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Weakly_Supervised_Class-Agnostic_Motion_Prediction_for_Autonomous_Driving_CVPR_2023_paper.pdf)] [[Github](https://github.com/L1bra1/WeakMotion)]
-- [AAAI 2024] Semi-Supervised Class-Agnostic Motion Prediction with Pseudo Label Regeneration and BEVMix [[paper](https://arxiv.org/pdf/2312.08009.pdf)] [[Github](https://github.com/kwwcv/ssmp) :ghost:]
+- [IJCAI 2023] ContrastMotion: Self-supervised Scene Motion Learning for Large-Scale LiDAR Point Clouds [[paper](https://arxiv.org/pdf/2304.12589v1.pdf)]
+- [AAAI 2024] Semi-Supervised Class-Agnostic Motion Prediction with Pseudo Label Regeneration and BEVMix [[paper](https://arxiv.org/pdf/2312.08009.pdf)] [[Github](https://github.com/kwwcv/SSMP)]
+- [CVPR 2024] Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations [[paper](https://arxiv.org/pdf/2403.13261.pdf)] [[Github](https://github.com/kwwcv/SelfMotion)]
 
 #### Multi-Modal
 
 - [CVPR 2021] Self-Supervised Pillar Motion Learning for Autonomous Driving [[paper](https://arxiv.org/pdf/2104.08683.pdf)] [[Github](https://github.com/qcraftai/pillar-motion)]
+- [AAAI 2024] Self-Supervised Bird's Eye View Motion Prediction with Cross-Modality Signals [[paper](https://arxiv.org/pdf/2401.11499v1.pdf)] [[Github](https://github.com/bshfang/self-supervised-motion)]
 
 ### Others (agent-level + occupancy-level)
 
